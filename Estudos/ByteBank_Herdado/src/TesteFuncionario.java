@@ -2,7 +2,7 @@ public class TesteFuncionario {
 
     public static void main(String[] args) {
 
-        Funcionario junior = new Funcionario();
+        Funcionario junior = new Gerente();
         junior.setSalario(2590.80);
 
         System.out.println(junior.getNome());

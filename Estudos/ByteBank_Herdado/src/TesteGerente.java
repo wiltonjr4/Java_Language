@@ -10,7 +10,7 @@ public class TesteGerente {
         System.out.println(gerentePaulo.getCpf());
         System.out.println(gerentePaulo.getSalario());
 
-        System.out.println(gerentePaulo.autentica(2222));
+        System.out.println(gerentePaulo.autenticar(2222));
 
         System.out.println(gerentePaulo.getBonificacao());
     }
